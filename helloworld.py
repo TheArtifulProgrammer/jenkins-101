@@ -1,2 +1,2 @@
 
-print("Hello world")
+print("Hello Munana, This is the way!")

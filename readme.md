@@ -1,14 +1,8 @@
-
-## YouTube Link
-
-For the full 1 hour course watch on youtube:
-<https://www.youtube.com/watch?v=6YZvp2GwT0A>
-
 # Installation
 
 ## Build the Jenkins BlueOcean Docker Image (or pull and use the one I built)
 
-```
+```docker
 docker build -t myjenkins-blueocean:2.489 .
 
 #IF you are having problems building the image yourself, you can pull from my registry (It is version 2.332.3-1 though, the original from the video)
